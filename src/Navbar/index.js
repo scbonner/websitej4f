@@ -48,10 +48,11 @@ function Navbar() {
 
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav">
-                <a href="home" class="nav-item nav-link active">Home</a>
-                <a href="who we are" class="nav-item nav-link">Who We Are</a>
-                <a href="instructors" class="nav-item nav-link">Instructors</a>
-                <a href="special events" class="nav-item nav-link">Special Events</a>
+                <a href="ourteam" class="nav-item nav-link active">Our Team</a>
+                <a href="partners" class="nav-item nav-link">Partnerships</a>
+                <a href="families" class="nav-item nav-link">Families</a>
+                <a href="policy" class="nav-item nav-link">Policy</a>
+                <a href="trainings" class="nav-item nav-link">Trainings</a>
             </div>
                 {/* <div class="navbar-nav ml-auto">
                     <a href="register" class="nav-item nav-link">Register</a>

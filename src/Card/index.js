@@ -12,14 +12,15 @@ function Card() {
 <>
 <br />
 <br />
-<h2><strong>WHO WE ARE</strong></h2>
+
 <br />
 <hr />
 
 {/* first card represents trainings */}
 
 
-
+<div className='container'>
+<h2><strong>WHO WE ARE</strong></h2>
 <div className="row row-cols-1 row-cols-md-4 g-4">
   <div classNames="col">
     <div className="card h-100">
@@ -72,9 +73,15 @@ function Card() {
     </div>
   </div>
 </div> 
+</div>
 
+<hr />
 
+<br />
+<br />
+<br />
 </>
+
     )
 }
 

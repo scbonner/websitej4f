@@ -4,7 +4,8 @@ import Logo from './Logo'
 import Navbar from './Navbar';
 import Jumbotron from './Jumbotron'
 import Card from './Card';
-import Accordion from './Accordion'
+import Staff from './Staff'
+//import Accordion from './Accordion'
 import Footer from './Footer'
 
 import './App.css';
@@ -13,10 +14,11 @@ function App() {
   return (
     <div className="app">
     <Navbar />
-    <Jumbotron />
     <Logo />
+    <Jumbotron />
     <Card />
-    <Accordion />
+    <Staff />
+    {/* <Accordion /> */}
     <Footer />
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />

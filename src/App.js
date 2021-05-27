@@ -1,8 +1,11 @@
 
 import React from 'react';
+import Logo from './Logo'
 import Navbar from './Navbar';
+import Jumbotron from './Jumbotron'
 import Card from './Card';
-import Accordian from './Accordian'
+import Accordion from './Accordion'
+import Footer from './Footer'
 
 import './App.css';
 
@@ -10,8 +13,11 @@ function App() {
   return (
     <div className="app">
     <Navbar />
-      <Card />
-      <Accordian />
+    <Jumbotron />
+    <Logo />
+    <Card />
+    <Accordion />
+    <Footer />
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>

@@ -35,6 +35,7 @@ function Jumbotron() {
         <div className='container'>
           <div className='container'>
               <div className='container'>
+                <hr />
                 <h5 className="display-8"><center>VISION</center></h5>
                   <p className="lead">To stop the youth incarceration epidemic while advocate for investment in youth and their families.</p>
                     <hr className="my-8" />
@@ -43,6 +44,7 @@ function Jumbotron() {
                     It uses utility classes for typography and spacing to space
                     content out within the larger container.
                   </p>
+                  <hr />
               </div>
              </div>
             </div>
@@ -52,6 +54,9 @@ function Jumbotron() {
         </div>
        </div>
      </div>
+
+
+
     )
 }
 

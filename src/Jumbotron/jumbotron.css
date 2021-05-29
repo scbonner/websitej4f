@@ -1,18 +1,38 @@
 .jumbotron {
     position:relative;
     overflow:hidden;
+    color: #0000FF;
   }
   
   .jumbotron .container {
     position:relative;
     z-index:2;
-    background:rgba(0,0,0,0.2);
+    background-color: #92C8E2;
+    padding:2rem;
+    border:3px solid rgba(0,0,0,0.1);
+    border-radius:7px;
+  }
+  .jumbotron .container .container {
+    position:relative;
+    z-index:2;
+    background-image: url('./image/familyinstitute.jpeg');
+    /* background-color: white; */
     padding:2rem;
     border:1px solid rgba(0,0,0,0.1);
-    border-radius:3px;
+    border-radius:7px;
+    /* background-image: url(../img/jumbotron-bg.png); */
+    
+
+  }
+
+  .jumbotron .col-lg-6 .container {
+    background-color: #7CAD41;
+  }
+  .jumbotron .col-lg-6 .container .container {
+    background-color: #B8D29A;
   }
   
-  .jumbotron-background {
+  .jumbotron-background .container{
     object-fit:cover;
     font-family: 'object-fit: cover;';
     position:absolute;

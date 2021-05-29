@@ -4,8 +4,9 @@ import Logo from './Logo'
 import Navbar from './Navbar';
 import Jumbotron from './Jumbotron'
 import Card from './Card';
-import Staff from './Staff'
-//import Accordion from './Accordion'
+import Trainings from './Trainings'
+import Jeannette from './Jeannette'
+//import GraceB from './GraceB'
 import Footer from './Footer'
 
 import './App.css';
@@ -17,7 +18,9 @@ function App() {
     <Logo />
     <Jumbotron />
     <Card />
-    <Staff />
+    <Jeannette />
+    {/* <GraceB /> */}
+    <Trainings />
     {/* <Accordion /> */}
     <Footer />
       {/* <header className="App-header">

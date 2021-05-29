@@ -41,7 +41,7 @@ function Navbar() {
         <div>
             <nav class="navbar navbar-expand-md navbar-dark bg-dark mb-3">
                  <div class="container-fluid">
-                     <a href="strance" class="navbar-brand mr-3">J4F</a>
+                     <a href="j4f" class="navbar-brand mr-3">J4F</a>
                         <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                              <span class="navbar-toggler-icon"></span>
                         </button> 

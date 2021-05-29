@@ -15,8 +15,8 @@ function App() {
   return (
     <div className="app">
     <Navbar />
-    <Logo />
     <Jumbotron />
+    <Logo />
     <Card />
     <Jeannette />
     {/* <GraceB /> */}

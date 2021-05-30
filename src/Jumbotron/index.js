@@ -1,5 +1,8 @@
 import React from 'react'
 //import '../Logo/index'
+import { Link } from 'react-router-dom'
+import { Button } from 'bootstrap/dist/css/bootstrap.css'
+
 import 'bootstrap/dist/css/bootstrap.css';
 import './jumbotron.css'
 
@@ -29,11 +32,15 @@ function Jumbotron() {
                     
                       <p className="lead">The mission at Justice for Families is to stop the youth incarceration epidemic while advocating for investment in youth and their families.</p>
                       <hr className="my-4" />
-                        <center><a className="btn btn-primary btn-lg" href="j4f" role="button">
+                     
+                        {/* <center><a className="btn btn-primary btn-lg" href="j4f" role="button">
                           Learn more
-                        </a></center>
+                        </a></center> */}
 
               </div>
+              <Link to={'/navbar/ourteam'}>
+                       <Button > View Profile </Button>
+                     </Link>
       <div className="col-lg-6">
 <br />
 <br />

@@ -8,8 +8,13 @@ import './jumbotron.css'
 
 function Jumbotron() {
     return (
+      
+     
+      
+      <div className="jumbotron bg-cover">
       <div className='container'>
         <div className="jumbotron jumbotron-fluid bg-white">
+        {/* <div class="jumbotron jumbotron-fluid bg-dark"> */}
           <div className='container'>
             <div className="container"> 
               <div className="row">
@@ -19,7 +24,9 @@ function Jumbotron() {
                   <br />
                   <br />
                   <br />
+                  <br />
                     <h5 className="display-4" ml='20px'><center>MISSION</center></h5>
+                    
                       <p className="lead">The mission at Justice for Families is to stop the youth incarceration epidemic while advocating for investment in youth and their families.</p>
                       <hr className="my-4" />
                         <center><a className="btn btn-primary btn-lg" href="j4f" role="button">
@@ -54,7 +61,7 @@ function Jumbotron() {
         </div>
        </div>
      </div>
-
+</div>
 
 
     )

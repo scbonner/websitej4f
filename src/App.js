@@ -6,6 +6,7 @@ import Jumbotron from './Jumbotron'
 import Card from './Card';
 import Trainings from './Trainings'
 import Jeannette from './Jeannette'
+//import CardFlip from './CardFlip'
 //import GraceB from './GraceB'
 import Footer from './Footer'
 
@@ -15,12 +16,14 @@ function App() {
   return (
     <div className="app">
     <Navbar />
+   
     <Jumbotron />
     <Logo />
     <Card />
     <Jeannette />
     {/* <GraceB /> */}
     <Trainings />
+    {/* <CardFlip /> */}
     {/* <Accordion /> */}
     <Footer />
       {/* <header className="App-header">

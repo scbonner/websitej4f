@@ -40,7 +40,7 @@ function Trainings() {
                     </div>
                     <div className="col-4">
                         <div className="card mb-4">
-                            <img className="card-img-top img-fluid h-100" src="//placehold.it/500x280" alt="..."></img>
+                            <img className="card-img-top img-fluid h-100" src="https://images.pexels.com/photos/4546025/pexels-photo-4546025.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="..."></img>
                                 <div className="card-body">
                                     <h4 className="card-title">2 Card title</h4>
                                     <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -51,7 +51,7 @@ function Trainings() {
                     </div>
                     <div className="col-4">
                         <div className="card mb-4">
-                            <img className="card-img-top img-fluid h-100" src="//placehold.it/500x280" alt="..."></img>
+                        <img className="card-img-top img-fluid h-100" src="https://images.pexels.com/photos/4546025/pexels-photo-4546025.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="..."></img>
                                 <div className="card-body">
                                     <h4 className="card-title">2 Card title</h4>
                                     <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -63,7 +63,7 @@ function Trainings() {
 
                             <div className="col-4">
                         <div className="card mb-4">
-                            <img className="card-img-top img-fluid h-100" src="//placehold.it/500x280" alt="..."></img>
+                        <img className="card-img-top img-fluid h-100" src="https://images.pexels.com/photos/4546025/pexels-photo-4546025.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="..."></img>
                                 <div className="card-body">
                                     <h4 className="card-title">2 Card title</h4>
                                     <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -76,7 +76,7 @@ function Trainings() {
 
                     <div className="col-4">
                         <div className="card mb-4">
-                            <img className="card-img-top img-fluid h-100" src="//placehold.it/500x280" alt="..."></img>
+                        <img className="card-img-top img-fluid h-100" src="https://images.pexels.com/photos/4546025/pexels-photo-4546025.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="..."></img>
                                 <div className="card-body">
                                     <h4 className="card-title">2 Card title</h4>
                                     <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>

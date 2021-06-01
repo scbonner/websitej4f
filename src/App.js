@@ -2,7 +2,7 @@
 import React from 'react';
 import Logo from './Logo'
 import Navbar from './Navbar';
-import Jumbotron from './Jumbotron'
+//import Jumbotron from './Jumbotron'
 import Card from './Card';
 import Trainings from './Trainings'
 import Jeannette from './Jeannette'
@@ -91,5 +91,7 @@ function App() {
   
   );
 }
+
+
 
 export default App;
